@@ -35,34 +35,78 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="767" y="286" w="-1" h="-1" measuredW="600" measuredH="348" zOrder="3" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./assets/00F0F_lQY8oXrOWdC_600x450.jpg</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::HRule" x="555" y="196" w="1024" h="-1" measuredW="100" measuredH="10" zOrder="5" locked="false" isInGroup="-1"/>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::Icon" x="575" y="101" w="-1" h="-1" measuredW="64" measuredH="64" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::HRule" x="555" y="196" w="1024" h="-1" measuredW="100" measuredH="10" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Icon" x="575" y="101" w="-1" h="-1" measuredW="64" measuredH="64" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>TruckIcon%7Cxlarge</icon>
       </controlProperties>
     </control>
-    <control controlID="29" controlTypeID="com.balsamiq.mockups::MenuBar" x="575" y="163" w="-1" h="-1" measuredW="158" measuredH="29" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::MenuBar" x="575" y="163" w="-1" h="-1" measuredW="158" measuredH="29" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <hrefs>%2CAuktion_einstellen%26bm%3BAuktion_einstellen.bmml%26bm%3BAuktion_einstellen.bmml%26bm%3BAuktion_einstellen.bmml</hrefs>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22100%2C152%2C169%2C165%22%20href%3D%22Auktion_einstellen.bmml%22%20alt%3D%22Auktion_einstellen%22%20id%3D%2229%22/%3E</map>
         <text>Suchen%2C%20Verkaufen</text>
       </controlProperties>
     </control>
-    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="810" y="221" w="-1" h="-1" measuredW="496" measuredH="32" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="810" y="221" w="-1" h="-1" measuredW="496" measuredH="32" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <size>24</size>
         <text>Finde%20dein%20Traumwagen%20mit%20geringem%20Budget%21</text>
       </controlProperties>
     </control>
-    <control controlID="31" controlTypeID="com.balsamiq.mockups::SearchBox" x="995" y="165" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::SearchBox" x="995" y="165" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Schnellsuche</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::ComboBox" x="588" y="287" w="-1" h="-1" measuredW="120" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Kilometerstand</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::ComboBox" x="588" y="218" w="-1" h="-1" measuredW="88" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hersteller</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::ComboBox" x="588" y="253" w="-1" h="-1" measuredW="68" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Modell</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="586" y="321" w="-1" h="-1" measuredW="116" measuredH="83" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5B%20%5D%20Klimaanlage%0A%5B%20%5D%20Stereoanlage%0A%5B%20%5D%20Tempomat%0A%5B%20%5D%20R%FCckfahrkamera</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Button" x="588" y="419" w="-1" h="-1" measuredW="66" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Suchen</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Image" x="812" y="324" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Label" x="810" y="266" w="-1" h="-1" measuredW="143" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bald%20endende%20Auktionen</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Link" x="902" y="326" w="-1" h="-1" measuredW="93" measuredH="19" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>BMW%201988%20325i</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Label" x="902" y="345" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Blabla%20bla</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Label" x="1236" y="320" w="-1" h="-1" measuredW="135" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ENDET%20IN%203%20MINUTEN</text>
       </controlProperties>
     </control>
   </controls>
