@@ -11,15 +11,15 @@
           <groupChildrenDescriptors>
             <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="730" h="344" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="13">
               <controlProperties>
-                <text>Fahrzeugkatalog</text>
+                <text>Auktionsseite</text>
               </controlProperties>
             </control>
             <control controlID="12" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="25" y="41" w="-1" h="295" measuredW="16" measuredH="100" zOrder="1" locked="false" isInGroup="13"/>
-            <control controlID="22" controlTypeID="com.balsamiq.mockups::Label" x="62" y="53" w="-1" h="-1" measuredW="185" measuredH="26" zOrder="2" locked="false" isInGroup="13">
+            <control controlID="22" controlTypeID="com.balsamiq.mockups::Label" x="62" y="53" w="-1" h="-1" measuredW="37" measuredH="26" zOrder="2" locked="false" isInGroup="13">
               <controlProperties>
                 <bold>true</bold>
                 <size>18</size>
-                <text>Fahrzeugbezeichnung</text>
+                <text>Audi</text>
               </controlProperties>
             </control>
             <control controlID="23" controlTypeID="com.balsamiq.mockups::Paragraph" x="62" y="87" w="275" h="40" measuredW="275" measuredH="80" zOrder="3" locked="false" isInGroup="13">
@@ -75,6 +75,8 @@
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="336" y="102" w="-1" h="-1" measuredW="65" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>Fahrzeugkatalog%26bm%3BFahrzeugkatalog.bmml%26bm%3BFahrzeugkatalog.bmml%26bm%3BFahrzeugkatalog.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22317%2C93%2C382%2C120%22%20href%3D%22Fahrzeugkatalog.bmml%22%20alt%3D%22Fahrzeugkatalog%22%20id%3D%222%22/%3E</map>
         <text>Zur%FCck</text>
       </controlProperties>
     </control>

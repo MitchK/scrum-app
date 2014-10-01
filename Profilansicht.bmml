@@ -33,7 +33,9 @@
     </control>
     <control controlID="27" controlTypeID="com.balsamiq.mockups::Icon" x="570" y="103" w="-1" h="-1" measuredW="64" measuredH="64" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>Startseite%26bm%3BStartseite.bmml%26bm%3BStartseite.bmml%26bm%3BStartseite.bmml</href>
         <icon>TruckIcon%7Cxlarge</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2215%2C82%2C79%2C146%22%20href%3D%22Startseite.bmml%22%20alt%3D%22Startseite%22%20id%3D%2227%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="957" y="214" w="-1" h="-1" measuredW="201" measuredH="32" zOrder="8" locked="false" isInGroup="-1">

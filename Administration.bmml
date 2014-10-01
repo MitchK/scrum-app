@@ -7,6 +7,8 @@
     </control>
     <control controlID="43" controlTypeID="com.balsamiq.mockups::Button" x="245" y="110" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>Auktion_einstellen%26bm%3BAuktion_einstellen.bmml%26bm%3BAuktion_einstellen.bmml%26bm%3BAuktion_einstellen.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2250%2C105%2C114%2C132%22%20href%3D%22Auktion_einstellen.bmml%22%20alt%3D%22Auktion_einstellen%22%20id%3D%2243%22/%3E</map>
         <text>%3C%20Back</text>
       </controlProperties>
     </control>

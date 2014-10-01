@@ -12,6 +12,10 @@
       </controlProperties>
     </control>
     <control controlID="14" controlTypeID="__group__" x="1408" y="97" w="160" h="93" measuredW="160" measuredH="93" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Registrierungsformular%26bm%3BRegistrierungsformular.bmml%26bm%3BRegistrierungsformular.bmml%26bm%3BRegistrierungsformular.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22853%2C76%2C1013%2C169%22%20href%3D%22Registrierungsformular.bmml%22%20alt%3D%22Registrierungsformular%22%20id%3D%2214%22/%3E</map>
+      </controlProperties>
       <groupChildrenDescriptors>
         <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="0" w="160" h="-1" measuredW="76" measuredH="27" zOrder="0" locked="false" isInGroup="14">
           <controlProperties>
@@ -81,6 +85,8 @@
     </control>
     <control controlID="36" controlTypeID="com.balsamiq.mockups::Button" x="588" y="419" w="-1" h="-1" measuredW="66" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>Fahrzeugkatalog%26bm%3BFahrzeugkatalog.bmml%26bm%3BFahrzeugkatalog.bmml%26bm%3BFahrzeugkatalog.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C398%2C99%2C425%22%20href%3D%22Fahrzeugkatalog.bmml%22%20alt%3D%22Fahrzeugkatalog%22%20id%3D%2236%22/%3E</map>
         <text>Suchen</text>
       </controlProperties>
     </control>
@@ -94,9 +100,11 @@
         <text>Bald%20endende%20Auktionen</text>
       </controlProperties>
     </control>
-    <control controlID="39" controlTypeID="com.balsamiq.mockups::Link" x="902" y="326" w="-1" h="-1" measuredW="93" measuredH="19" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Link" x="902" y="326" w="-1" h="-1" measuredW="30" measuredH="19" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>BMW%201988%20325i</text>
+        <href>Auktionsseite%26bm%3BAuktionsseite.bmml%26bm%3BAuktionsseite.bmml%26bm%3BAuktionsseite.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22347%2C305%2C377%2C324%22%20href%3D%22Auktionsseite.bmml%22%20alt%3D%22Auktionsseite%22%20id%3D%2239%22/%3E</map>
+        <text>Audi%20</text>
       </controlProperties>
     </control>
     <control controlID="40" controlTypeID="com.balsamiq.mockups::Label" x="902" y="345" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="16" locked="false" isInGroup="-1">

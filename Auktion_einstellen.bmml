@@ -127,5 +127,12 @@
         <text>1998</text>
       </controlProperties>
     </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Button" x="1460" y="155" w="-1" h="-1" measuredW="105" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Administration%26bm%3BAdministration.bmml%26bm%3BAdministration.bmml%26bm%3BAdministration.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22905%2C134%2C1010%2C161%22%20href%3D%22Administration.bmml%22%20alt%3D%22Administration%22%20id%3D%2224%22/%3E</map>
+        <text>Administration</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
