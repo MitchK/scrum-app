@@ -1,0 +1,69 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1579" measuredH="789" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="555" y="21" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Auktionshaus%20fuer%20deutsche%20Autos%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Title" x="744" y="97" w="-1" h="-1" measuredW="623" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Auktionshaus%20fuer%20deutsche%20Autos</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="__group__" x="1408" y="97" w="160" h="93" measuredW="160" measuredH="93" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="0" w="160" h="-1" measuredW="76" measuredH="27" zOrder="0" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>Username</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="33" w="160" h="-1" measuredW="68" measuredH="27" zOrder="1" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>Passwort</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="88" y="72" w="-1" h="-1" measuredW="72" measuredH="21" zOrder="2" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>%5BRegistrieren%5D</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="0" y="66" w="-1" h="-1" measuredW="81" measuredH="27" zOrder="3" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>Anmelden</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="767" y="286" w="-1" h="-1" measuredW="600" measuredH="390" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../../Pictures/car_pictures/00808_ehoFLbchlHT_600x450.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::HRule" x="555" y="196" w="1024" h="-1" measuredW="100" measuredH="10" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Icon" x="575" y="101" w="-1" h="-1" measuredW="64" measuredH="64" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>TruckIcon%7Cxlarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::MenuBar" x="575" y="163" w="-1" h="-1" measuredW="158" measuredH="29" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2CAuktion_einstellen%26bm%3BAuktion_einstellen.bmml%26bm%3BAuktion_einstellen.bmml%26bm%3BAuktion_einstellen.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22100%2C152%2C169%2C165%22%20href%3D%22Auktion_einstellen.bmml%22%20alt%3D%22Auktion_einstellen%22%20id%3D%2229%22/%3E</map>
+        <text>Suchen%2C%20Verkaufen</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="810" y="221" w="-1" h="-1" measuredW="496" measuredH="32" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Finde%20dein%20Traumwagen%20mit%20geringem%20Budget%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::SearchBox" x="995" y="165" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Schnellsuche</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

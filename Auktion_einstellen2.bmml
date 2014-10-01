@@ -1,0 +1,131 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1579" measuredH="789" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="555" y="21" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Auktionshaus%20fuer%20deutsche%20Autos%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::HRule" x="555" y="196" w="1024" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="744" y="97" w="-1" h="-1" measuredW="623" measuredH="43" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Auktionshaus%20fuer%20deutsche%20Autos</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="__group__" x="574" y="96" w="987" h="579" measuredW="987" measuredH="579" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties/>
+      <groupChildrenDescriptors>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="922" y="21" w="-1" h="-1" measuredW="59" measuredH="21" zOrder="0" locked="false" isInGroup="4">
+          <controlProperties>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22941%2C101%2C999.77294921875%2C114%22%20href%3D%22Startseite.bmml%22%20alt%3D%22Abmelden%22%20id%3D%222%22/%3E</map>
+            <text>%5BAbmelden%5D%28Startseite%29</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="922" y="0" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="1" locked="false" isInGroup="4">
+          <controlProperties>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22973.36962890625%2C80%2C1005.765625%2C93%22%20href%3D%22Profilansicht.bmml%22%20alt%3D%22Kevin%22%20id%3D%224%22/%3E</map>
+            <text>Hallo%20%5BKevin%5D%28Profilansicht%29</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::MenuBar" x="0" y="72" w="-1" h="-1" measuredW="158" measuredH="29" zOrder="2" locked="false" isInGroup="4">
+          <controlProperties>
+            <text>Suchen%2C%20Verkaufen</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="8" w="-1" h="-1" measuredW="64" measuredH="64" zOrder="3" locked="false" isInGroup="4">
+          <controlProperties>
+            <icon>TruckIcon%7Cxlarge</icon>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="0" y="552" w="-1" h="-1" measuredW="113" measuredH="27" zOrder="4" locked="false" isInGroup="4">
+          <controlProperties>
+            <text>Auktion%20starten</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="518" w="-1" h="-1" measuredW="36" measuredH="27" zOrder="5" locked="false" isInGroup="4">
+          <controlProperties>
+            <text>%2410</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="844" y="221" w="-1" h="-1" measuredW="423" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Vertrau%20uns%2C%20hier%20wirst%20du%20dein%20Auto%20los%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::ComboBox" x="584" y="289" w="-1" h="-1" measuredW="61" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>BMW</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="584" y="450" w="-1" h="-1" measuredW="183" measuredH="127" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%5B%20%5D%20Elektronische%20Fensterheber%0A%5Bx%5D%20ABS%0A%5Bx%5D%20Klimanalge%0A%5B%20%5D%20Radio%20mit%20CD%0A%5Bx%5D%20Lederausstattung%0A%5B%20%5D%20Sitzheizung</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="584" y="375" w="-1" h="-1" measuredW="79" measuredH="61" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Getriebe%0A%28o%29%20Automatik%0A%28%20%29%20Manuell</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::ComboBox" x="584" y="321" w="-1" h="-1" measuredW="64" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>328ci</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Image" x="829" y="282" w="586" h="381" measuredW="600" measuredH="348" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../../Pictures/car_pictures/00F0F_lQY8oXrOWdC_600x450.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="574" y="592" w="-1" h="-1" measuredW="62" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Startpreis%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::ComboBox" x="663" y="289" w="-1" h="-1" measuredW="83" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Benziner</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="663" y="320" w="-1" h="-1" measuredW="119" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bild%20hinzufuegen</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="__group__" x="1060" y="690" w="138" h="24" measuredW="138" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="0" locked="false" isInGroup="22">
+          <controlProperties>
+            <href>Auktion_einstellen%26bm%3BAuktion_einstellen.bmml%26bm%3BAuktion_einstellen.bmml%26bm%3BAuktion_einstellen.bmml</href>
+            <icon>DotHollowIcon%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22505%2C669%2C529%2C693%22%20href%3D%22Auktion_einstellen.bmml%22%20alt%3D%22Auktion_einstellen%22%20id%3D%220%22/%3E</map>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="40" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="22">
+          <controlProperties>
+            <icon>DotIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="75" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="22">
+          <controlProperties>
+            <icon>DotHollowIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="114" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="22">
+          <controlProperties>
+            <icon>DotHollowIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::ComboBox" x="584" y="351" w="-1" h="-1" measuredW="58" measuredH="24" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1998</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
