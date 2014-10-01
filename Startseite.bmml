@@ -35,9 +35,9 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="767" y="286" w="-1" h="-1" measuredW="600" measuredH="390" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="767" y="286" w="-1" h="-1" measuredW="600" measuredH="348" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../../../Pictures/car_pictures/00808_ehoFLbchlHT_600x450.jpg</src>
+        <src>./assets/00F0F_lQY8oXrOWdC_600x450.jpg</src>
         <text/>
       </controlProperties>
     </control>

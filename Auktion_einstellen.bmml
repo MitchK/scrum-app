@@ -77,7 +77,7 @@
     </control>
     <control controlID="11" controlTypeID="com.balsamiq.mockups::Image" x="829" y="282" w="-1" h="-1" measuredW="600" measuredH="390" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../../../Pictures/car_pictures/00808_ehoFLbchlHT_600x450.jpg</src>
+        <src>./assets/00808_ehoFLbchlHT_600x450.jpg</src>
         <text/>
       </controlProperties>
     </control>
